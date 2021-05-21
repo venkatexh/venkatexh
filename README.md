@@ -1,8 +1,8 @@
 ### Hi there 👋
 
--  I'm a ReactJS and Node.js developer currently working as a Frontend Developer Intern and building full stack web applications as personal projects.
--  Currently learning tools such as Webpack, Babel etc. to learn how things work under the hood.
+-  I'm a Software Engineer Intern at ChaosNative. Former Software Developer Intern at Foxmula.
 -  Looking to work on projects that involve JavaScript, Node.js, ReactJS, ExpressJS, GraphQL or any other JS based technologies.
+-  Interested in Open Source.
 -  Reach me at https://linkedin.com/in/venkateshch59
 
 <!--
