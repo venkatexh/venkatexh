@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--  I'm a Software Engineer Intern at [ChaosNative](https://www/chaosnative.com). Former Software Developer Intern at [Foxmula](https://www.foxmula.com).
+-  I'm a Software Engineer Intern at [ChaosNative](https://www.chaosnative.com). Former Software Developer Intern at [Foxmula](https://www.foxmula.com).
 -  Looking to work on projects that involve JavaScript, Node.js, ReactJS, ExpressJS, GraphQL or any other JS based technologies.
 -  Interested in Open Source.
 -  Reach me [here](https://linkedin.com/in/venkateshch59)
